@@ -3,8 +3,13 @@
 
 
 ## Hi there 👋  
+#  Hello, My name is Mark Zinaman.  On the internet, I use the pseudonym michaelzinn.
 
 <!--
+
+
+
+
 **michaelzinn/michaelzinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

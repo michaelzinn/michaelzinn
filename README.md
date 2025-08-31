@@ -2,8 +2,9 @@
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/75ec55f9-4bca-4a20-8c9c-2090d0447323" />
 
 
-## Hi there 👋  
-#  Hello, My name is Mark Zinaman.  On the internet, I use the pseudonym michaelzinn.
+#  Hello, My name is Mark Zinaman.  On the internet, I use the pseudonym michael zinn or mhzinn.
+
+<p>I am a retired senior citizen.  For many years I worked as a computer specialist for a small givernment regulatory agency.  These days my computer activities are relegated to providing end user support to my syster, and occasionally building the PCs that we use at home.  Quad cities is a wonderful historic area.  When I am not working on my home local area network, I enjoy visiting and photographing the areas scenic and historic sites.  In particular I am fascinated by the massive red rock that can be viewed from Mt. Hester road just outside Tuscumbia, AL.  </p>
 
 <!--
 

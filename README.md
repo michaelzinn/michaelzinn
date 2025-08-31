@@ -4,7 +4,7 @@
 
 #  Hello, My name is Mark Zinaman.  On the internet, I use the pseudonym michael zinn or mhzinn.
 
-<p>I am a retired senior citizen.  For many years I worked as a computer specialist for a small government regulatory commission.  In that capacity I installed, maintained and implemented all the commission's hardware and software, including Banyan Vines, PC DOS, WordPerfect, and Smart Integrated Software Suite. These days my computer activities are relegated to providing end user support to my sister, and occasionally building the PCs that we use at home.  
+<p>I am a retired senior citizen.  For many years I worked as a computer specialist for a small government regulatory commission.  In that capacity I installed, maintained and implemented all the commission's hardware and software, including Banyan Vines, PC DOS, WordPerfect, and Smart Integrated Software Suite. These days my computer activities are relegated to providing end user support to my sister, and building the PCs that we use at home.  
   
 Quad cities is a wonderful historic area.  When I am not working on my home local area network, I enjoy visiting and photographing the areas scenic and historic sites.  In particular I am fascinated by the massive red rock that can be viewed from Mt. Hester road just outside Tuscumbia, AL.  I am also amazed that we have covered bridges still standing in this area.  I don't think I would care to drive my car across one.  But some are well maintained and all are worth viewing for anyone who is interested in the past.    </p>
 <!--

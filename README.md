@@ -1,5 +1,4 @@
-## Hi there 👋 
-big fat monkey wants some peanuts 
+## Hi there 👋  
 
 <!--
 **michaelzinn/michaelzinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
